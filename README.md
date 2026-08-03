@@ -1,6 +1,7 @@
 # Uni-Memories | Celebrating the IS22/23 Journey
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-memories.rishiware.com-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://memories.rishiware.com)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
 **Uni-Memories** is a dedicated web platform built to document and celebrate the shared experiences of the **Information Systems (IS) IS22/23** batch at the **Sabaragamuwa University of Sri Lanka (SUSL)**. It serves as a digital time capsule for batch meetups, university events, and personal connections.
